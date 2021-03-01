@@ -19,7 +19,7 @@ It's worth noting that, in order to solve the conundrum of the forged grades, co
 When considering the district as a whole, the methods with which we determine the district's standards are mostly the same -- as said above, only the 9th graders from Thomas High School are not factored into the calculations. 
 With the grades intact as they were, these are the results we procured from the data.
 
-![The frame containing averages for passing marks before removing the Thomas High School fresheman scores](https://github.com/SirNancyTheNegative/School_District_Analysis/tree/main/Resources/Images/District_Before.png)
+![The frame containing averages for passing marks before removing the Thomas High School freshman scores](https://github.com/SirNancyTheNegative/School_District_Analysis/tree/main/Resources/Images/District_Before.png)
 
 And here is the district results with the Thomas High School freshman grades scrubbed.
 
